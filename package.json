@@ -6,7 +6,7 @@
   "directories": {},
   "dependencies": {
     "jquery": "^1.6.2",
-    "jscssp": "^0.1.0"
+    "jscssp": "^0.5.0"
   },
   "devDependencies": {},
   "scripts": {},
