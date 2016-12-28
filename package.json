@@ -1,0 +1,17 @@
+{
+  "name": "polycalc",
+  "version": "0.1.0",
+  "description": "Polyfill for calc()",
+  "main": "polycalc.js",
+  "directories": {},
+  "dependencies": {
+    "jQuery": "^2.2.0",
+    "cssParser": "^0.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Konetix/PolyCalc"
+  }
+}
