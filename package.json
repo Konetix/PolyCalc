@@ -5,7 +5,7 @@
   "main": "polycalc.js",
   "directories": {},
   "dependencies": {
-    "jQuery": "^2.2.0",
+    "jQuery": "^1.6.2",
     "cssParser": "^0.1.0"
   },
   "devDependencies": {},
